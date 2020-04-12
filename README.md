@@ -1,11 +1,12 @@
 ## vertaal - Python command line tools for English learner
 
 __Usage__: `./en_en.py [english word]` for its meaning with detail examples.
+
 __Example__:
 ```bash
 ./en_en.py best
 ```
-And you get this output
+And you get this output, with examples in blue text (if your terminal support color).
 <pre>
 <b> adjective, superl. of  good with  better as compar.</b> 
 1    of the highest quality, excellence, or standing:
@@ -33,7 +34,7 @@ And you get this output
      Their best fell far short of excellence.
 7    a person's best wishes or kindest regards:
      Please give my best to your father.
-     verb (used with object)
+<b> verb (used with object) </b>
 1    to get the better of; defeat; beat:
      He easily bested his opponent in hand-to-hand combat. She bested me in the
      argument.
